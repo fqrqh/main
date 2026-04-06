@@ -1,0 +1,548 @@
+Uri: https://ghchart.rshah.org/03C851/VrandaaGarg
+File Name: C:\Downloaded Web Sites\vrandagarg.in\03C851\VrandaaGarg
+Content Type: image/svg+xml
+
+Uri: https://res.cloudinary.com/dyetf2h9n/image/upload/v1759138327/AV_1_zztl3w.png
+File Name: C:\Downloaded Web Sites\vrandagarg.in\dyetf2h9n\image\upload\v1759138327\AV_1_zztl3w.png
+Content Type: image/png
+
+Uri: https://res.cloudinary.com/dyetf2h9n/video/upload/f_auto:video,q_auto/v1769146942/BashIOVideo_1_qlrib7.mp4
+File Name: C:\Downloaded Web Sites\vrandagarg.in\dyetf2h9n\video\upload\f_autovideo,q_auto\v1769146942\BashIOVideo_1_qlrib7.mp4
+Content Type: video/mp4
+
+Uri: https://vrandagarg.in/
+File Name: C:\Downloaded Web Sites\vrandagarg.in\index.htm
+Content Type: text/html
+
+Uri: https://vrandagarg.in/logo.jpg
+File Name: C:\Downloaded Web Sites\vrandagarg.in\logo.jpg
+Content Type: image/jpeg
+
+Uri: https://vrandagarg.in/projects
+File Name: C:\Downloaded Web Sites\vrandagarg.in\projects.html
+Content Type: text/html
+
+Uri: https://vrandagarg.in/VrandaGargResume.pdf
+File Name: C:\Downloaded Web Sites\vrandagarg.in\VrandaGargResume.pdf
+Content Type: application/pdf
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fgithub.com%2FVrandaaGarg.png&w=1080&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\VrandaaGarg-4.jpeg
+Content Type: image/jpeg
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fgithub.com%2FVrandaaGarg.png&w=1200&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\VrandaaGarg-5.jpeg
+Content Type: image/jpeg
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fgithub.com%2FVrandaaGarg.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\VrandaaGarg-6.jpeg
+Content Type: image/jpeg
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fgithub.com%2FVrandaaGarg.png&w=2048&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\VrandaaGarg-7.jpeg
+Content Type: image/jpeg
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fgithub.com%2FVrandaaGarg.png&w=3840&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\VrandaaGarg-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fgithub.com%2FVrandaaGarg.png&w=640&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\VrandaaGarg-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fgithub.com%2FVrandaaGarg.png&w=750&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\VrandaaGarg-3.jpeg
+Content Type: image/jpeg
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fgithub.com%2FVrandaaGarg.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\VrandaaGarg.jpeg
+Content Type: image/jpeg
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fq_60%2Fv1752582425%2Farcadia_cq0ncn.png&w=1080&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\arcadia_cq0ncn-6.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fq_60%2Fv1752582425%2Farcadia_cq0ncn.png&w=1200&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\arcadia_cq0ncn-7.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fq_60%2Fv1752582425%2Farcadia_cq0ncn.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\arcadia_cq0ncn-8.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fq_60%2Fv1752582425%2Farcadia_cq0ncn.png&w=2048&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\arcadia_cq0ncn-9.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fq_60%2Fv1752582425%2Farcadia_cq0ncn.png&w=256&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\arcadia_cq0ncn-1.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fq_60%2Fv1752582425%2Farcadia_cq0ncn.png&w=384&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\arcadia_cq0ncn-2.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fq_60%2Fv1752582425%2Farcadia_cq0ncn.png&w=3840&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\arcadia_cq0ncn.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fq_60%2Fv1752582425%2Farcadia_cq0ncn.png&w=640&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\arcadia_cq0ncn-3.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fq_60%2Fv1752582425%2Farcadia_cq0ncn.png&w=750&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\arcadia_cq0ncn-4.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fq_60%2Fv1752582425%2Farcadia_cq0ncn.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\arcadia_cq0ncn-5.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fq_60%2Fv1752582425%2Ffinwise_obzcir.png&w=1080&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\finwise_obzcir-6.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fq_60%2Fv1752582425%2Ffinwise_obzcir.png&w=1200&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\finwise_obzcir-7.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fq_60%2Fv1752582425%2Ffinwise_obzcir.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\finwise_obzcir-8.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fq_60%2Fv1752582425%2Ffinwise_obzcir.png&w=2048&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\finwise_obzcir-9.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fq_60%2Fv1752582425%2Ffinwise_obzcir.png&w=256&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\finwise_obzcir-1.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fq_60%2Fv1752582425%2Ffinwise_obzcir.png&w=384&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\finwise_obzcir-2.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fq_60%2Fv1752582425%2Ffinwise_obzcir.png&w=3840&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\finwise_obzcir.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fq_60%2Fv1752582425%2Ffinwise_obzcir.png&w=640&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\finwise_obzcir-3.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fq_60%2Fv1752582425%2Ffinwise_obzcir.png&w=750&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\finwise_obzcir-4.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fq_60%2Fv1752582425%2Ffinwise_obzcir.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\finwise_obzcir-5.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fq_60%2Fv1752582426%2Fskillcompass_ci3gur.png&w=1080&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\skillcompass_ci3gur-6.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fq_60%2Fv1752582426%2Fskillcompass_ci3gur.png&w=1200&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\skillcompass_ci3gur-7.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fq_60%2Fv1752582426%2Fskillcompass_ci3gur.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\skillcompass_ci3gur-8.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fq_60%2Fv1752582426%2Fskillcompass_ci3gur.png&w=2048&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\skillcompass_ci3gur-9.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fq_60%2Fv1752582426%2Fskillcompass_ci3gur.png&w=256&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\skillcompass_ci3gur-1.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fq_60%2Fv1752582426%2Fskillcompass_ci3gur.png&w=384&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\skillcompass_ci3gur-2.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fq_60%2Fv1752582426%2Fskillcompass_ci3gur.png&w=3840&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\skillcompass_ci3gur.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fq_60%2Fv1752582426%2Fskillcompass_ci3gur.png&w=640&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\skillcompass_ci3gur-3.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fq_60%2Fv1752582426%2Fskillcompass_ci3gur.png&w=750&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\skillcompass_ci3gur-4.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fq_60%2Fv1752582426%2Fskillcompass_ci3gur.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\skillcompass_ci3gur-5.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fv1759138327%2FAV_1_zztl3w.png&w=1080&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\AV_1_zztl3w-6.jpeg
+Content Type: image/jpeg
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fv1759138327%2FAV_1_zztl3w.png&w=1200&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\AV_1_zztl3w-7.jpeg
+Content Type: image/jpeg
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fv1759138327%2FAV_1_zztl3w.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\AV_1_zztl3w-8.jpeg
+Content Type: image/jpeg
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fv1759138327%2FAV_1_zztl3w.png&w=2048&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\AV_1_zztl3w-9.jpeg
+Content Type: image/jpeg
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fv1759138327%2FAV_1_zztl3w.png&w=256&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\AV_1_zztl3w-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fv1759138327%2FAV_1_zztl3w.png&w=384&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\AV_1_zztl3w-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fv1759138327%2FAV_1_zztl3w.png&w=3840&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\AV_1_zztl3w.jpeg
+Content Type: image/jpeg
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fv1759138327%2FAV_1_zztl3w.png&w=640&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\AV_1_zztl3w-3.jpeg
+Content Type: image/jpeg
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fv1759138327%2FAV_1_zztl3w.png&w=750&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\AV_1_zztl3w-4.jpeg
+Content Type: image/jpeg
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fv1759138327%2FAV_1_zztl3w.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\AV_1_zztl3w-5.jpeg
+Content Type: image/jpeg
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fv1765577464%2FQuoridor_gctz2q.png&w=1080&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\Quoridor_gctz2q-6.jpeg
+Content Type: image/jpeg
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fv1765577464%2FQuoridor_gctz2q.png&w=1200&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\Quoridor_gctz2q-7.jpeg
+Content Type: image/jpeg
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fv1765577464%2FQuoridor_gctz2q.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\Quoridor_gctz2q-8.jpeg
+Content Type: image/jpeg
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fv1765577464%2FQuoridor_gctz2q.png&w=2048&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\Quoridor_gctz2q-9.jpeg
+Content Type: image/jpeg
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fv1765577464%2FQuoridor_gctz2q.png&w=256&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\Quoridor_gctz2q-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fv1765577464%2FQuoridor_gctz2q.png&w=384&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\Quoridor_gctz2q-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fv1765577464%2FQuoridor_gctz2q.png&w=3840&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\Quoridor_gctz2q.jpeg
+Content Type: image/jpeg
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fv1765577464%2FQuoridor_gctz2q.png&w=640&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\Quoridor_gctz2q-3.jpeg
+Content Type: image/jpeg
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fv1765577464%2FQuoridor_gctz2q.png&w=750&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\Quoridor_gctz2q-4.jpeg
+Content Type: image/jpeg
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fv1765577464%2FQuoridor_gctz2q.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\Quoridor_gctz2q-5.jpeg
+Content Type: image/jpeg
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fv1766867568%2Fimage_xij1nl.png&w=1080&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\image_xij1nl-6.jpeg
+Content Type: image/jpeg
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fv1766867568%2Fimage_xij1nl.png&w=1200&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\image_xij1nl-7.jpeg
+Content Type: image/jpeg
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fv1766867568%2Fimage_xij1nl.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\image_xij1nl-8.jpeg
+Content Type: image/jpeg
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fv1766867568%2Fimage_xij1nl.png&w=2048&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\image_xij1nl-9.jpeg
+Content Type: image/jpeg
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fv1766867568%2Fimage_xij1nl.png&w=256&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\image_xij1nl-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fv1766867568%2Fimage_xij1nl.png&w=384&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\image_xij1nl-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fv1766867568%2Fimage_xij1nl.png&w=3840&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\image_xij1nl.jpeg
+Content Type: image/jpeg
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fv1766867568%2Fimage_xij1nl.png&w=640&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\image_xij1nl-3.jpeg
+Content Type: image/jpeg
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fv1766867568%2Fimage_xij1nl.png&w=750&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\image_xij1nl-4.jpeg
+Content Type: image/jpeg
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fv1766867568%2Fimage_xij1nl.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\image_xij1nl-5.jpeg
+Content Type: image/jpeg
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Fv1757182382%2Flogo_etjtoe.png&w=1080&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\logo_etjtoe-4.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Fv1757182382%2Flogo_etjtoe.png&w=1200&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\logo_etjtoe-5.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Fv1757182382%2Flogo_etjtoe.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\logo_etjtoe-6.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Fv1757182382%2Flogo_etjtoe.png&w=2048&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\logo_etjtoe-7.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Fv1757182382%2Flogo_etjtoe.png&w=3840&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\logo_etjtoe.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Fv1757182382%2Flogo_etjtoe.png&w=640&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\logo_etjtoe-1.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Fv1757182382%2Flogo_etjtoe.png&w=750&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\logo_etjtoe-2.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Fv1757182382%2Flogo_etjtoe.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\logo_etjtoe-3.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Fv1763065667%2F032c0f5b-f53e-4c4f-be53-d5697d0872a0_oczzk2.png&w=640&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\032c0f5b-f53e-4c4f-be53-d5697d0872a0_oczzk2-1.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Fv1763065667%2F032c0f5b-f53e-4c4f-be53-d5697d0872a0_oczzk2.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\032c0f5b-f53e-4c4f-be53-d5697d0872a0_oczzk2.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Fv1765632165%2Fzustand_tcnlhr.png&w=128&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\zustand_tcnlhr-1.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Fv1765632165%2Fzustand_tcnlhr.png&w=32&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\zustand_tcnlhr-2.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fres.cloudinary.com%2Fdyetf2h9n%2Fimage%2Fupload%2Fv1765632165%2Fzustand_tcnlhr.png&w=64&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\zustand_tcnlhr.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fresumate.vrandagarg.in%2Fbanner.png&w=1080&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\banner-6.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fresumate.vrandagarg.in%2Fbanner.png&w=1200&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\banner-7.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fresumate.vrandagarg.in%2Fbanner.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\banner-8.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fresumate.vrandagarg.in%2Fbanner.png&w=2048&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\banner-9.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fresumate.vrandagarg.in%2Fbanner.png&w=256&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\banner-1.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fresumate.vrandagarg.in%2Fbanner.png&w=384&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\banner-2.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fresumate.vrandagarg.in%2Fbanner.png&w=3840&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\banner.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fresumate.vrandagarg.in%2Fbanner.png&w=640&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\banner-3.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fresumate.vrandagarg.in%2Fbanner.png&w=750&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\banner-4.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fresumate.vrandagarg.in%2Fbanner.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\banner-5.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fsmartbite.vrandagarg.in%2Fbanner.png&w=1080&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\banner-16.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fsmartbite.vrandagarg.in%2Fbanner.png&w=1200&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\banner-17.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fsmartbite.vrandagarg.in%2Fbanner.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\banner-18.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fsmartbite.vrandagarg.in%2Fbanner.png&w=2048&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\banner-19.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fsmartbite.vrandagarg.in%2Fbanner.png&w=256&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\banner-11.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fsmartbite.vrandagarg.in%2Fbanner.png&w=384&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\banner-12.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fsmartbite.vrandagarg.in%2Fbanner.png&w=3840&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\banner-10.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fsmartbite.vrandagarg.in%2Fbanner.png&w=640&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\banner-13.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fsmartbite.vrandagarg.in%2Fbanner.png&w=750&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\banner-14.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/image?url=https:%2F%2Fsmartbite.vrandagarg.in%2Fbanner.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\banner-15.png
+Content Type: image/png
+
+Uri: https://vrandagarg.in/_next/static/chunks/0e0304d86f8c9c94.js
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\static\chunks\0e0304d86f8c9c94.js
+Content Type: application/javascript
+
+Uri: https://vrandagarg.in/_next/static/chunks/1b03b30095cb19a6.js
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\static\chunks\1b03b30095cb19a6.js
+Content Type: application/javascript
+
+Uri: https://vrandagarg.in/_next/static/chunks/213de2ec1bf0681e.js
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\static\chunks\213de2ec1bf0681e.js
+Content Type: application/javascript
+
+Uri: https://vrandagarg.in/_next/static/chunks/4f08ec698030b149.js
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\static\chunks\4f08ec698030b149.js
+Content Type: application/javascript
+
+Uri: https://vrandagarg.in/_next/static/chunks/70467e12e662c07f.js
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\static\chunks\70467e12e662c07f.js
+Content Type: application/javascript
+
+Uri: https://vrandagarg.in/_next/static/chunks/7223c6239c31ec2b.js
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\static\chunks\7223c6239c31ec2b.js
+Content Type: application/javascript
+
+Uri: https://vrandagarg.in/_next/static/chunks/75275e9a35ad5268.js
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\static\chunks\75275e9a35ad5268.js
+Content Type: application/javascript
+
+Uri: https://vrandagarg.in/_next/static/chunks/8aa0efca034f1bca.js
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\static\chunks\8aa0efca034f1bca.js
+Content Type: application/javascript
+
+Uri: https://vrandagarg.in/_next/static/chunks/9921114b8de2abfc.js
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\static\chunks\9921114b8de2abfc.js
+Content Type: application/javascript
+
+Uri: https://vrandagarg.in/_next/static/chunks/a6dad97d9634a72d.js
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\static\chunks\a6dad97d9634a72d.js
+Content Type: application/javascript
+
+Uri: https://vrandagarg.in/_next/static/chunks/af2cce4a188a96d3.js
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\static\chunks\af2cce4a188a96d3.js
+Content Type: application/javascript
+
+Uri: https://vrandagarg.in/_next/static/chunks/b015cf8a09cd38af.js
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\static\chunks\b015cf8a09cd38af.js
+Content Type: application/javascript
+
+Uri: https://vrandagarg.in/_next/static/chunks/c06cb3dbca8f5a2f.js
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\static\chunks\c06cb3dbca8f5a2f.js
+Content Type: application/javascript
+
+Uri: https://vrandagarg.in/_next/static/chunks/cf20ebdcf821833a.js
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\static\chunks\cf20ebdcf821833a.js
+Content Type: application/javascript
+
+Uri: https://vrandagarg.in/_next/static/chunks/d271907209d74deb.css
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\static\chunks\d271907209d74deb.css
+Content Type: text/css
+
+Uri: https://vrandagarg.in/_next/static/chunks/d630a3ff33a7e7d0.js
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\static\chunks\d630a3ff33a7e7d0.js
+Content Type: application/javascript
+
+Uri: https://vrandagarg.in/_next/static/chunks/f87bb6006e27ff5b.js
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\static\chunks\f87bb6006e27ff5b.js
+Content Type: application/javascript
+
+Uri: https://vrandagarg.in/_next/static/chunks/turbopack-a1904fc2a5f6d279.js
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\static\chunks\turbopack-a1904fc2a5f6d279.js
+Content Type: application/javascript
+
+Uri: https://vrandagarg.in/_next/static/media/14e23f9b59180572-s.9c448f3c.woff2
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\static\media\14e23f9b59180572-s.9c448f3c.woff2
+Content Type: font/woff2
+
+Uri: https://vrandagarg.in/_next/static/media/1bffadaabf893a1e-s.7cd81963.woff2
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\static\media\1bffadaabf893a1e-s.7cd81963.woff2
+Content Type: font/woff2
+
+Uri: https://vrandagarg.in/_next/static/media/2a65768255d6b625-s.p.d19752fb.woff2
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\static\media\2a65768255d6b625-s.p.d19752fb.woff2
+Content Type: font/woff2
+
+Uri: https://vrandagarg.in/_next/static/media/2bbe8d2671613f1f-s.76dcb0b2.woff2
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\static\media\2bbe8d2671613f1f-s.76dcb0b2.woff2
+Content Type: font/woff2
+
+Uri: https://vrandagarg.in/_next/static/media/2c55a0e60120577a-s.2a48534a.woff2
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\static\media\2c55a0e60120577a-s.2a48534a.woff2
+Content Type: font/woff2
+
+Uri: https://vrandagarg.in/_next/static/media/5476f68d60460930-s.c995e352.woff2
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\static\media\5476f68d60460930-s.c995e352.woff2
+Content Type: font/woff2
+
+Uri: https://vrandagarg.in/_next/static/media/65c558afe41e89d6-s.e2c8389a.woff2
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\static\media\65c558afe41e89d6-s.e2c8389a.woff2
+Content Type: font/woff2
+
+Uri: https://vrandagarg.in/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\static\media\83afe278b6a6bb3c-s.p.3a6ba036.woff2
+Content Type: font/woff2
+
+Uri: https://vrandagarg.in/_next/static/media/9c72aa0f40e4eef8-s.18a48cbc.woff2
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\static\media\9c72aa0f40e4eef8-s.18a48cbc.woff2
+Content Type: font/woff2
+
+Uri: https://vrandagarg.in/_next/static/media/ad66f9afd8947f86-s.7a40eb73.woff2
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\static\media\ad66f9afd8947f86-s.7a40eb73.woff2
+Content Type: font/woff2
+
+Uri: https://vrandagarg.in/_next/static/media/b49b0d9b851e4899-s.4f3fa681.woff2
+File Name: C:\Downloaded Web Sites\vrandagarg.in\_next\static\media\b49b0d9b851e4899-s.4f3fa681.woff2
+Content Type: font/woff2
+
